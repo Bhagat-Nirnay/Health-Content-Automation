@@ -1,0 +1,7 @@
+# Research: High Blood Pressure
+
+## Overview
+Hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure usually does not cause symptoms itself. It is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. Hypertension is a major cause of premature death worldwide.
+
+## Source
+- Wikipedia

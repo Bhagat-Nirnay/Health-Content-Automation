@@ -1,0 +1,7 @@
+# Research: Good Eye Health
+
+## Overview
+Legacy Good Samaritan Medical Center, commonly known informally as Good Samaritan Hospital or Good Sam, is a 539-bed teaching hospital located in northwest Portland, Oregon, United States. Founded in 1875 by the Episcopal Diocese of Oregon, it is a part of the Legacy Health. It has centers for breast health, cancer, and stroke, and is home to the Legacy Devers Eye Institute, the Legacy Obesity and Diabetes Institute, the Legacy Cancer Institute, the Legacy Rehabilitation Institute of Oregon, and the Linfield-Good Samaritan School of Nursing.
+
+## Source
+- Wikipedia

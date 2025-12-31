@@ -1,0 +1,8 @@
+# Research: Healthy Mental Health
+
+## Overview
+
+Health has a variety of definitions, which have been used for different purposes over time. In general, it refers to physical and emotional well-being, especially that associated with normal functioning of the human body, absent of disease, pain, or injury.
+
+## Source
+- Wikipedia
