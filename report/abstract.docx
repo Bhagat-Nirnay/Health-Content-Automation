@@ -1,0 +1,9 @@
+PROJECT ABSTRACT
+
+The Health Content Automation System is a Python-based automation project designed to streamline the creation of health-related digital content. The system automates the process of topic research, blog writing, and social media post generation using a modular and ethical approach.
+
+The project addresses the problem of time-consuming manual content creation by converting health topics into structured research, informative blogs, and platform-specific social media posts. The automation is designed to assist content creators, wellness businesses, and educational platforms in maintaining consistency and quality.
+
+The system follows a file-based workflow and does not perform direct automated posting, ensuring compliance with ethical standards and platform policies. It also supports manual review before publishing.
+
+This project demonstrates practical applications of automation, modular programming, and real-world problem solving, making it suitable for academic evaluation and small business use cases.

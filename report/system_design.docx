@@ -1,0 +1,27 @@
+SYSTEM ARCHITECTURE AND DESIGN
+
+The Health Content Automation System is designed using a modular architecture. Each module performs a specific task, allowing flexibility, scalability, and easy maintenance.
+
+1. Topic Input Layer
+
+Health topics are provided through a text file. This allows batch processing and easy modification without changing the codebase.
+
+2. Research Module
+
+The research module processes each topic and generates structured informational content. The output is stored as separate research files for traceability.
+
+3. Blog Generation Module
+
+This module converts research content into a well-structured health blog. It ensures clarity, readability, and logical content flow.
+
+4. Social Media Post Generation Module
+
+This module creates platform-specific social media posts optimized for Instagram, Facebook, LinkedIn, and WhatsApp.
+
+5. Output Management
+
+Each module saves its output in dedicated folders, maintaining a clean and organized structure.
+
+6. Automation Control
+
+The automation can be triggered manually or via workflow automation tools such as n8n, allowing scheduling and orchestration without modifying the core logic.
